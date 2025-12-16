@@ -9,7 +9,7 @@ import os
 from agentq.__main__ import run_agent_sync
 
 # Set up your API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = 
 
 # Simple task following the example pattern
 task = """
