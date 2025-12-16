@@ -1,0 +1,1755 @@
+{
+  "role": "WebArea",
+  "name": "Projectz AI \u2013 Home Design & Contractor Matching",
+  "children": [
+    {
+      "role": "link",
+      "name": "Projectz AI Blueprint Logo Home",
+      "keyshortcuts": "68"
+    },
+    {
+      "role": "link",
+      "name": "AI Design Design your next project with AI",
+      "keyshortcuts": "72"
+    },
+    {
+      "role": "link",
+      "name": "Project Hub Manage your projects",
+      "keyshortcuts": "74"
+    },
+    {
+      "role": "link",
+      "name": "Contractors Find Contractors",
+      "keyshortcuts": "76"
+    },
+    {
+      "role": "button",
+      "name": "More",
+      "keyshortcuts": "79"
+    },
+    {
+      "role": "link",
+      "name": "Start Free Trial",
+      "keyshortcuts": "87"
+    },
+    {
+      "role": "link",
+      "name": "Affiliate Program Earn Commission",
+      "keyshortcuts": "90"
+    },
+    {
+      "role": "link",
+      "name": "My Account",
+      "keyshortcuts": "92"
+    },
+    {
+      "role": "button",
+      "name": "Sample Cart",
+      "keyshortcuts": "98"
+    },
+    {
+      "role": "heading",
+      "name": "Find Local Contractors",
+      "keyshortcuts": "112",
+      "level": 1
+    },
+    {
+      "role": "text",
+      "name": "Connect with trusted professionals near you"
+    },
+    {
+      "role": "text",
+      "name": "\ud83d\udca1 After you contact your contractor, head over to your"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "Project Hub"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "to share your project via text or email for quick collaboration!"
+    },
+    {
+      "role": "button",
+      "name": "Dismiss banner",
+      "keyshortcuts": "117"
+    },
+    {
+      "role": "textbox",
+      "name": "Search for contractors (e.g., 'plumber near me')",
+      "keyshortcuts": "128"
+    },
+    {
+      "role": "button",
+      "name": "",
+      "keyshortcuts": "129"
+    },
+    {
+      "role": "button",
+      "name": "Reset",
+      "keyshortcuts": "133"
+    },
+    {
+      "role": "button",
+      "name": "\ud83c\udfa8Painter",
+      "keyshortcuts": "139"
+    },
+    {
+      "role": "button",
+      "name": "\ud83d\udeb0Plumber",
+      "keyshortcuts": "141"
+    },
+    {
+      "role": "button",
+      "name": "\u26a1Electrician",
+      "keyshortcuts": "143"
+    },
+    {
+      "role": "button",
+      "name": "\ud83e\uddf1Tile Installer",
+      "keyshortcuts": "145"
+    },
+    {
+      "role": "button",
+      "name": "\ud83e\ude9aFinish Carpenter",
+      "keyshortcuts": "147"
+    },
+    {
+      "role": "button",
+      "name": "\ud83d\udec1Bathroom Remodel",
+      "keyshortcuts": "149"
+    },
+    {
+      "role": "button",
+      "name": "\ud83c\udf73Kitchen Remodel",
+      "keyshortcuts": "151"
+    },
+    {
+      "role": "button",
+      "name": "\ud83e\udeb5Flooring Installer",
+      "keyshortcuts": "153"
+    },
+    {
+      "role": "button",
+      "name": "\ud83c\udfe0Roofer",
+      "keyshortcuts": "155"
+    },
+    {
+      "role": "button",
+      "name": "\ud83e\uddf0General Contractor",
+      "keyshortcuts": "157"
+    },
+    {
+      "role": "button",
+      "name": "\ud83c\udfd7\ufe0fRemodel",
+      "keyshortcuts": "159"
+    },
+    {
+      "role": "button",
+      "name": "\ud83c\udf33Outdoor Living",
+      "keyshortcuts": "161"
+    },
+    {
+      "role": "button",
+      "name": "\ud83c\udf3fLandscape",
+      "keyshortcuts": "163"
+    },
+    {
+      "role": "button",
+      "name": "\ud83d\udc77Builders",
+      "keyshortcuts": "165"
+    },
+    {
+      "role": "text",
+      "name": "Location access denied. Showing default location (New York)."
+    },
+    {
+      "role": "button",
+      "name": "Keyboard shortcuts",
+      "description": "Keyboard shortcuts",
+      "keyshortcuts": "174"
+    },
+    {
+      "role": "region",
+      "name": "Map",
+      "description": "Left arrow Move left. Right arrow Move right. Up arrow Move up. Down arrow Move down. + Zoom in. - Zoom out. Home Jump left by 75%. End Jump right by 75%. Page Up Jump up by 75%. Page Down Jump down by 75%.",
+      "keyshortcuts": "175",
+      "roledescription": "map"
+    },
+    {
+      "role": "image",
+      "name": "Your Location",
+      "description": "Your Location",
+      "keyshortcuts": "377"
+    },
+    {
+      "role": "image",
+      "name": "Paintworks & Decorating",
+      "keyshortcuts": "379"
+    },
+    {
+      "role": "image",
+      "name": "\ud83d\udfe1\ud83d\udfe0\ud83d\udd34 INTERIOR PAINTING near me | New York | GET $100 DISCOUNT | COMMERCIAL | ESTIMATE | PAINTERS | COMPANIES | CONTRACTORS",
+      "keyshortcuts": "383"
+    },
+    {
+      "role": "image",
+      "name": "Soho Painters",
+      "keyshortcuts": "387"
+    },
+    {
+      "role": "image",
+      "name": "Bay Ridge Painting",
+      "keyshortcuts": "391"
+    },
+    {
+      "role": "image",
+      "name": "\ud83e\udd47 House and interior painting near me | FREE cost estimate | Commercial and residential",
+      "keyshortcuts": "395"
+    },
+    {
+      "role": "image",
+      "name": "Vecchio Painters & Designers Ltd.",
+      "keyshortcuts": "399"
+    },
+    {
+      "role": "image",
+      "name": "By Hand Painting LLC",
+      "keyshortcuts": "403"
+    },
+    {
+      "role": "image",
+      "name": "RJK PAINTING NYC",
+      "keyshortcuts": "407"
+    },
+    {
+      "role": "image",
+      "name": "NT Home Painting",
+      "keyshortcuts": "411"
+    },
+    {
+      "role": "image",
+      "name": "Premier Painting Pros",
+      "keyshortcuts": "415"
+    },
+    {
+      "role": "image",
+      "name": "Gramercy Pro Painting",
+      "keyshortcuts": "419"
+    },
+    {
+      "role": "image",
+      "name": "Blank Canvas Painting",
+      "keyshortcuts": "423"
+    },
+    {
+      "role": "image",
+      "name": "CertaPro Painters of Staten Island",
+      "keyshortcuts": "427"
+    },
+    {
+      "role": "image",
+      "name": "Brush House Painting and Flooring Services of North Jersey",
+      "keyshortcuts": "431"
+    },
+    {
+      "role": "image",
+      "name": "Elite pro painting si",
+      "keyshortcuts": "435"
+    },
+    {
+      "role": "image",
+      "name": "Sandoukas Painting Company NYC",
+      "keyshortcuts": "439"
+    },
+    {
+      "role": "image",
+      "name": "Handyman & Painter",
+      "keyshortcuts": "443"
+    },
+    {
+      "role": "image",
+      "name": "Pristine Painters",
+      "keyshortcuts": "447"
+    },
+    {
+      "role": "image",
+      "name": "Flatbush House Painters",
+      "keyshortcuts": "451"
+    },
+    {
+      "role": "image",
+      "name": "Handyman Service & Apartment Repair & Property Maintenance & Electrician & Plumber & Painter | Vlad Can Fix Anything In NYC",
+      "keyshortcuts": "455"
+    },
+    {
+      "role": "menubar",
+      "name": "",
+      "keyshortcuts": "465",
+      "orientation": "horizontal",
+      "children": [
+        {
+          "role": "menuitemradio",
+          "name": "Show street map",
+          "description": "Show street map",
+          "keyshortcuts": "467",
+          "checked": true,
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitemradio",
+          "name": "Show satellite imagery",
+          "description": "Show satellite imagery",
+          "keyshortcuts": "475",
+          "checked": false,
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Search This Area",
+      "description": "Search for contractors in this map area",
+      "keyshortcuts": "483"
+    },
+    {
+      "role": "button",
+      "name": "Toggle fullscreen view",
+      "description": "Toggle fullscreen view",
+      "keyshortcuts": "487",
+      "pressed": false
+    },
+    {
+      "role": "button",
+      "name": "+",
+      "description": "Zoom in",
+      "keyshortcuts": "497"
+    },
+    {
+      "role": "button",
+      "name": "\u2013",
+      "description": "Zoom out",
+      "keyshortcuts": "498"
+    },
+    {
+      "role": "button",
+      "name": "\ud83d\udccd",
+      "description": "Recenter on my location",
+      "keyshortcuts": "499"
+    },
+    {
+      "role": "button",
+      "name": "Map camera controls",
+      "description": "Map camera controls",
+      "keyshortcuts": "523"
+    },
+    {
+      "role": "button",
+      "name": "Drag Pegman onto the map to open Street View",
+      "description": "Drag Pegman onto the map to open Street View",
+      "keyshortcuts": "565"
+    },
+    {
+      "role": "link",
+      "name": "Open this area in Google Maps (opens a new window)",
+      "description": "Open this area in Google Maps (opens a new window)",
+      "keyshortcuts": "572"
+    },
+    {
+      "role": "button",
+      "name": "Keyboard shortcuts",
+      "keyshortcuts": "584"
+    },
+    {
+      "role": "text",
+      "name": "Map data \u00a92025 Google"
+    },
+    {
+      "role": "link",
+      "name": "Terms (opens in new tab)",
+      "keyshortcuts": "614"
+    },
+    {
+      "role": "link",
+      "name": "Report a map error",
+      "description": "Report errors in the road map or imagery to Google",
+      "keyshortcuts": "620"
+    },
+    {
+      "role": "heading",
+      "name": "Results (20)",
+      "keyshortcuts": "624",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Paintworks & Decorating",
+      "keyshortcuts": "631"
+    },
+    {
+      "role": "heading",
+      "name": "Paintworks & Decorating",
+      "keyshortcuts": "632",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "4.9"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "203"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "3.8 mi"
+    },
+    {
+      "role": "text",
+      "name": "45-20 11th St, Long Island City, NY 11101, USA"
+    },
+    {
+      "role": "link",
+      "name": "(646) 960-3699",
+      "keyshortcuts": "647"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "651"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "657"
+    },
+    {
+      "role": "text",
+      "name": "Allison Chase"
+    },
+    {
+      "role": "text",
+      "name": "I got exactly what I asked for. First off, they are incredibly thorough and transparent. Any price adjustment is immediately told to you, and if something is best left untouched they will advise you. Every question they have, they ask instead of guess. They are also super friendly and quick to respond. They also really take pride in their work. It wasn't just a job for them, they treat your home like it's art. I have eccentric taste, and they happily helped me find my vision. This was a delightful experience. (Something that is rarely said about home construction/updates.)"
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "682"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "685"
+    },
+    {
+      "role": "image",
+      "name": "\ud83d\udfe1\ud83d\udfe0\ud83d\udd34 INTERIOR PAINTING near me | New York | GET $100 DISCOUNT | COMMERCIAL | ESTIMATE | PAINTERS | COMPANIES | CONTRACTORS",
+      "keyshortcuts": "688"
+    },
+    {
+      "role": "heading",
+      "name": "\ud83d\udfe1\ud83d\udfe0\ud83d\udd34 INTERIOR PAINTING near me | New York | GET $100 DISCOUNT | COMMERCIAL | ESTIMATE | PAINTERS | COMPANIES | CONTRACTORS",
+      "keyshortcuts": "689",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "30"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "6.3 mi"
+    },
+    {
+      "role": "text",
+      "name": "100 W 105th St, New York, NY 10025, USA"
+    },
+    {
+      "role": "link",
+      "name": "(646) 425-4514",
+      "keyshortcuts": "704"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "708"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "714"
+    },
+    {
+      "role": "text",
+      "name": "Alexi Serenko"
+    },
+    {
+      "role": "text",
+      "name": "We recently moved into our new apartment \ud83d\ude0don the East Side and needed a fresh coat of paint for our bedroom and living room. We couldn't be happier with the painting service we chose! From start to finish, the experience was fantastic. First off, their professional painters were incredibly friendly and easy to work with. They helped us pick the perfect colors for both rooms. The quality of the interior painting was top-notch, and you could tell they used high-quality paint. The whole process was stress-free and they finished on time, which we really appreciated. One thing that stood out was their attention to detail. They meticulously covered our furniture and floors, leaving no mess behind. If you're looking for a reliable service that offers apartment painting, residential painting, or just need room painting done right, we highly recommend them. They also offer great customer service and the pricing was very reasonable for the level of professionalism we received. We loved how they transformed our home; it feels so cozy and inviting now. If you need a painting company for your place, definitely give them a call. They truly offer the best home painting services we've experienced. Thank you for making our new apartment feel like home!"
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "739"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "742"
+    },
+    {
+      "role": "image",
+      "name": "Soho Painters",
+      "keyshortcuts": "745"
+    },
+    {
+      "role": "heading",
+      "name": "Soho Painters",
+      "keyshortcuts": "746",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "32"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "3.4 mi"
+    },
+    {
+      "role": "text",
+      "name": "252 W 46th St, New York, NY 10036, USA"
+    },
+    {
+      "role": "link",
+      "name": "(917) 284-8864",
+      "keyshortcuts": "761"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "765"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "771"
+    },
+    {
+      "role": "text",
+      "name": "Nick Colon"
+    },
+    {
+      "role": "text",
+      "name": "Will and his crew are experienced professionals. The quality of their work is top notch and I highly recommend them for your next project. They will take the time to make sure the finished product is beyond your expectations."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "796"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "799"
+    },
+    {
+      "role": "image",
+      "name": "Bay Ridge Painting",
+      "keyshortcuts": "802"
+    },
+    {
+      "role": "heading",
+      "name": "Bay Ridge Painting",
+      "keyshortcuts": "803",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "81"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "4.9 mi"
+    },
+    {
+      "role": "text",
+      "name": "358 58th St #1, Brooklyn, NY 11220, USA"
+    },
+    {
+      "role": "link",
+      "name": "(347) 733-4266",
+      "keyshortcuts": "818"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "822"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "828"
+    },
+    {
+      "role": "text",
+      "name": "Maria Fiorentino"
+    },
+    {
+      "role": "text",
+      "name": "Julian and his crew just completed a painting job at my home and I was thoroughly pleased with the work. The team showed up on time and ready to work and even completed the job earlier than expected. I love my new paint job! Julian and his team were courteous and professional. Would definitely hire Bay Ridge Painting for any future home projects."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "853"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "856"
+    },
+    {
+      "role": "image",
+      "name": "\ud83e\udd47 House and interior painting near me | FREE cost estimate | Commercial and residential",
+      "keyshortcuts": "859"
+    },
+    {
+      "role": "heading",
+      "name": "\ud83e\udd47 House and interior painting near me | FREE cost estimate | Commercial and residential",
+      "keyshortcuts": "860",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "18"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "4.0 mi"
+    },
+    {
+      "role": "text",
+      "name": "1020 President St, Brooklyn, NY 11225, USA"
+    },
+    {
+      "role": "link",
+      "name": "(646) 425-4514",
+      "keyshortcuts": "875"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "879"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "885"
+    },
+    {
+      "role": "text",
+      "name": "Stepandosi"
+    },
+    {
+      "role": "text",
+      "name": "I hired Click and Paint to repaint my two-bedroom apartment, and I\u2019m seriously impressed with the results. From the start, the team was professional, on time, and super helpful when it came to picking the right colors and finishes for each room. I live in Manhattan, and it\u2019s not easy finding reliable painters who know how to work efficiently in spaces like mine \u2014 especially in areas like Harlem, Chelsea, Upper East Side, SoHo, and Lower Manhattan. But Click and Paint really came through. They prepped everything with care, covered all my furniture, and finished the job in just two days without cutting corners. The walls look flawless, the apartment feels brand new, and the whole process was smooth from quote to cleanup. I highly recommend Click and Paint to anyone looking for quality painting services with great customer care."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "910"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "913"
+    },
+    {
+      "role": "image",
+      "name": "Vecchio Painters & Designers Ltd.",
+      "keyshortcuts": "916"
+    },
+    {
+      "role": "heading",
+      "name": "Vecchio Painters & Designers Ltd.",
+      "keyshortcuts": "917",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "4.9"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "86"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "8.2 mi"
+    },
+    {
+      "role": "text",
+      "name": "1522 E 66th St, Brooklyn, NY 11234, USA"
+    },
+    {
+      "role": "link",
+      "name": "(347) 450-2119",
+      "keyshortcuts": "932"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "936"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "942"
+    },
+    {
+      "role": "text",
+      "name": "Patricia DeLury"
+    },
+    {
+      "role": "text",
+      "name": "I can not begin to say enough about this company. They transformed my kitchen cabinets from old, scratched, dark wood to bright new cream cabinets. It truly looks like I have a new kitchen. The team was super efficient and so clean,making it so easy to live and use the kitchen during this project. I would use Vecchio Painters again for my painting needs. Highly recommend."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "967"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "970"
+    },
+    {
+      "role": "image",
+      "name": "By Hand Painting LLC",
+      "keyshortcuts": "973"
+    },
+    {
+      "role": "heading",
+      "name": "By Hand Painting LLC",
+      "keyshortcuts": "974",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "96"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "4.0 mi"
+    },
+    {
+      "role": "text",
+      "name": "64 Sterling Ave, Weehawken Township, NJ 07086, USA"
+    },
+    {
+      "role": "link",
+      "name": "(551) 336-5882",
+      "keyshortcuts": "989"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "993"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "999"
+    },
+    {
+      "role": "text",
+      "name": "Steven Hurst"
+    },
+    {
+      "role": "text",
+      "name": "HIGHLY RECOMMEND! Adam and team just helped us make our new home feel like OUR new home! We just moved into a new condo in Hoboken that needed a few things: Popcorn ceiling removal (yuck) Refinishing and painting of the ceilings Painting of all of the interior Carpet removal and hardwood floor install. Adam was amazing from start to finish. He was communicative, sending us daily updates, including videos, from the condo as he and the team completed the work. This is all complemented by the fact that he\u2019s just an honest, good guy who loves helping people and is passionate about delivering what the customer wants. The price at the end was exactly what we agreed to in the beginning. No hidden fees, no surprises, just great service. I highly recommend Adam and By Hand Painting and will be using them in the future for any work we need on our Hoboken condo. THANK YOU Adam!"
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1024"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1027"
+    },
+    {
+      "role": "image",
+      "name": "RJK PAINTING NYC",
+      "keyshortcuts": "1030"
+    },
+    {
+      "role": "heading",
+      "name": "RJK PAINTING NYC",
+      "keyshortcuts": "1031",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "13"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "2.9 mi"
+    },
+    {
+      "role": "text",
+      "name": "260 Madison Ave 8th fl, New York, NY 10016, USA"
+    },
+    {
+      "role": "link",
+      "name": "(347) 601-8814",
+      "keyshortcuts": "1046"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1050"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1056"
+    },
+    {
+      "role": "text",
+      "name": "Lena Lombardi"
+    },
+    {
+      "role": "text",
+      "name": "We found RJK Painting through a random Google search and weren't sure what we were going to get. We are SO GLAD we did! Ryan is not only one of the kindest people you'll ever meet, but his work speaks for itself. When he came to give an estimate, his prices were fair and reasonable, and he clearly explained a breakdown on what would be included with the job. He worked really hard to stay within our budget and gave us options on how to do so. He and his team showed up on time every day, were meticulous and professional, and even went above their call, moving things that we forgot about and fixing little things that weren't originally included as they saw them. The most impressive thing for us was after they applied one coat of paint in one room, I (through my own fault of choosing poorly) didn't like the color. Without hesitation, Ryan told me he could change it, and it's no problem at all. I said I didn't want to do that to him, as he had just spent half a day priming and painting that room, and he simply said \"Don't worry about it. These things happen. You have to love your home. I'll go get another color. Just let me know which one.\" We, on our own, paid for the new paint and gave him a bit extra money for his time and trouble, but he never once asked for us to do that, nor expected it. Overall, we are beyond impressed with Ryan and his crew. In a world of price-gouging, mediocre work, and unreliable people, Ryan and his crew are diamonds in the rough on all counts. Highly recommend!"
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1081"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1084"
+    },
+    {
+      "role": "image",
+      "name": "NT Home Painting",
+      "keyshortcuts": "1087"
+    },
+    {
+      "role": "heading",
+      "name": "NT Home Painting",
+      "keyshortcuts": "1088",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "4.9"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "62"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "5.8 mi"
+    },
+    {
+      "role": "text",
+      "name": "43-07 31st Ave, Astoria, NY 11103, USA"
+    },
+    {
+      "role": "link",
+      "name": "(929) 323-7505",
+      "keyshortcuts": "1103"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1107"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1113"
+    },
+    {
+      "role": "text",
+      "name": "Olivia"
+    },
+    {
+      "role": "text",
+      "name": "I hired NT Home Concepts for my popcorn ceiling work last month. I am impressed with the outcome and now my ceiling is smooth, even and looks so amazing. They were careful and I was informed through the whole process even though I was not on-site. Sharing some before and after pics. Nick was friendly, knowledgeable, and easy to deal with. I highly recommend to anyone and would definitely hire his team again for any renovating work that I may need in the future. Thank you!!"
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1138"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1141"
+    },
+    {
+      "role": "image",
+      "name": "Premier Painting Pros",
+      "keyshortcuts": "1144"
+    },
+    {
+      "role": "heading",
+      "name": "Premier Painting Pros",
+      "keyshortcuts": "1145",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "183"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "11.6 mi"
+    },
+    {
+      "role": "text",
+      "name": "182 Titus Ave, Staten Island, NY 10306, USA"
+    },
+    {
+      "role": "link",
+      "name": "(347) 400-9740",
+      "keyshortcuts": "1160"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1164"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1170"
+    },
+    {
+      "role": "text",
+      "name": "Steven Centner"
+    },
+    {
+      "role": "text",
+      "name": "Bartosz and his team are truly the best. Extremely professional, very fair pricing, speedy response, and easy to communicate with. Their work is outstanding. Bart and his team don\u2019t rush and make sure you get the best product. They have turned our house into a home. Highly recommend Premier Painting for any of your projects. We will definitely be using them again for all our future projects."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1195"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1198"
+    },
+    {
+      "role": "image",
+      "name": "Gramercy Pro Painting",
+      "keyshortcuts": "1201"
+    },
+    {
+      "role": "heading",
+      "name": "Gramercy Pro Painting",
+      "keyshortcuts": "1202",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "4.9"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "21"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "1.8 mi"
+    },
+    {
+      "role": "text",
+      "name": "145 E 15th St, New York, NY 10003, USA"
+    },
+    {
+      "role": "link",
+      "name": "(212) 518-3224",
+      "keyshortcuts": "1217"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1221"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1227"
+    },
+    {
+      "role": "text",
+      "name": "Daniel Smith"
+    },
+    {
+      "role": "text",
+      "name": "I couldn\u2019t be more pleased with the flooring and painting work done on my new condo by Sal and the Gramercy Pro Painting team. From start to finish, they were professional, reliable, and incredibly detail-oriented. The new floors are absolutely stunning, and the paint job brought the entire space to life with clean lines and a perfect finish. Sal was fantastic to work with\u2014always communicative, organized, and committed to making sure everything turned out exactly as I envisioned. The crew was respectful of my space and kept everything clean and on schedule. I highly recommend Sal and Gramercy Pro Painting for anyone looking for high-quality craftsmanship and outstanding service."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1252"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1255"
+    },
+    {
+      "role": "image",
+      "name": "Blank Canvas Painting",
+      "keyshortcuts": "1258"
+    },
+    {
+      "role": "heading",
+      "name": "Blank Canvas Painting",
+      "keyshortcuts": "1259",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "35"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "5147 ft"
+    },
+    {
+      "role": "text",
+      "name": "118A Orchard St Suite 123, New York, NY 10002, USA"
+    },
+    {
+      "role": "link",
+      "name": "(646) 763-4331",
+      "keyshortcuts": "1274"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1278"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1284"
+    },
+    {
+      "role": "text",
+      "name": "Melissa Manne"
+    },
+    {
+      "role": "text",
+      "name": "Sergio and team did a great job in our apartment on painting and wallpaper. He was incredibly responsive and gave us a quote ASAP, which was competitive with others we got. We were under some time pressure and he was able to arrange work to start within a week, including coming over beforehand to paint samples in all rooms. His team was professional, the job was completed on-time, and all rooms (we did 3) look great, including our intricate wallpaper pattern that had to cover some oddly shaped walls. Highly recommend!"
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1309"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1312"
+    },
+    {
+      "role": "image",
+      "name": "CertaPro Painters of Staten Island",
+      "keyshortcuts": "1315"
+    },
+    {
+      "role": "heading",
+      "name": "CertaPro Painters of Staten Island",
+      "keyshortcuts": "1316",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "164"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "10.7 mi"
+    },
+    {
+      "role": "text",
+      "name": "77 Lincoln Ave 2nd Floor, Staten Island, NY 10306, USA"
+    },
+    {
+      "role": "link",
+      "name": "(718) 304-1227",
+      "keyshortcuts": "1331"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1335"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1341"
+    },
+    {
+      "role": "text",
+      "name": "George Mimozo"
+    },
+    {
+      "role": "text",
+      "name": "My story began in August when due to a severe storm my roof leaked and damaged my interior ceiling in 2 places. So the first thing I had to do was replace my roof. Once the roof was replaced I moved forward with getting bids to repair and repaint my dining room, living room and long hallway. Todd (the owner) of my local Certapro Painters of Staten Island, came and gave me a very reasonable price. They came an finished the job in 2 days. The paint team arrived punctually and did a great job. They covered everything to avoid paint splatters. They were neat and thorough on the job. The office stayed in touch with me throughout the entire project and Todd came each day to insure everything was being painted accurately and according to the written estimate I was given. I am very please with the outcome of my project and am very happy to be living back in my home. Don't hesitate to use Todd and CertaPro."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1366"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1369"
+    },
+    {
+      "role": "image",
+      "name": "Brush House Painting and Flooring Services of North Jersey",
+      "keyshortcuts": "1372"
+    },
+    {
+      "role": "heading",
+      "name": "Brush House Painting and Flooring Services of North Jersey",
+      "keyshortcuts": "1373",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "578"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "13.4 mi"
+    },
+    {
+      "role": "text",
+      "name": "25 Riverview Dr, Montclair, NJ 07043, USA"
+    },
+    {
+      "role": "link",
+      "name": "(973) 804-6120",
+      "keyshortcuts": "1388"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1392"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1398"
+    },
+    {
+      "role": "text",
+      "name": "Matthew Eduard"
+    },
+    {
+      "role": "text",
+      "name": "Brush House executed the job perfectly. They ripped up my old carpeting and refinished and restrained the hardwood underneath to the exact stain I envisioned. They also painted almost the entirety of my condo with such precision and cleanliness. I included the photo of the bathroom ceiling as well because they were able to rid it of a bit of mold that had started to appear. I worked most closely with Santiago and Dan who were so personable and responsive. The flooring and painting men were also friendly and accommodating. They also were punctual and completed everything so quickly! I truly am so pleased and could not thank them enough for bringing my vision to life."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1423"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1426"
+    },
+    {
+      "role": "image",
+      "name": "Elite pro painting si",
+      "keyshortcuts": "1429"
+    },
+    {
+      "role": "heading",
+      "name": "Elite pro painting si",
+      "keyshortcuts": "1430",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "42"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "10.0 mi"
+    },
+    {
+      "role": "text",
+      "name": "207 Dongan Hills Ave, Staten Island, NY 10305, USA"
+    },
+    {
+      "role": "link",
+      "name": "(856) 417-1855",
+      "keyshortcuts": "1445"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1449"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1455"
+    },
+    {
+      "role": "text",
+      "name": "Bnb Bnb"
+    },
+    {
+      "role": "text",
+      "name": "Benny and his team at Elite painting are professional in every sense of the word! When people say you get what you pay for, it\u2019s true! The results and detailing throughout the house are amazing! Call Benny with your painting needs!"
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1480"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1483"
+    },
+    {
+      "role": "image",
+      "name": "Sandoukas Painting Company NYC",
+      "keyshortcuts": "1486"
+    },
+    {
+      "role": "heading",
+      "name": "Sandoukas Painting Company NYC",
+      "keyshortcuts": "1487",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "39"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "3.6 mi"
+    },
+    {
+      "role": "text",
+      "name": "350 W 50th St, New York, NY 10019, USA"
+    },
+    {
+      "role": "link",
+      "name": "(914) 703-0635",
+      "keyshortcuts": "1502"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1506"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1512"
+    },
+    {
+      "role": "text",
+      "name": "Alia Henedi"
+    },
+    {
+      "role": "text",
+      "name": "I highly recommend this team for your painting job! They are professional, knowledgeable, and thorough. Jimmy and his team were very pleasant to work with and they went above and beyond to ensure our job was done in a very thorough and seamless manner, given the tight and continuously changing timelines that we had which really eased our stress. They\u2019re also reasonably priced compared to other companies in NYC. We were very pleased with their service and look forward to hiring them again for our future painting jobs!"
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1537"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1540"
+    },
+    {
+      "role": "heading",
+      "name": "Handyman & Painter",
+      "keyshortcuts": "1542",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "5"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "19"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "9.1 mi"
+    },
+    {
+      "role": "text",
+      "name": "603 Broadway, Newark, NJ 07104, USA"
+    },
+    {
+      "role": "link",
+      "name": "(973) 346-9951",
+      "keyshortcuts": "1557"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1561"
+    },
+    {
+      "role": "text",
+      "name": "Jellie Ann Abella"
+    },
+    {
+      "role": "text",
+      "name": "On the other hand, I engaged this local handyman with a leaky faucet and some cabinet repairs and found him to be fantastic. He was punctual, fast in the diagnosis of the problem, and also efficient in fixing everything. The pricing was very fair, and he didn\u2019t try to convince me to buy unnecessary stuff. I really appreciate the privilege of having a not-so-far-away but honest and skilled person. I will surely call upon his services again."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1586"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1589"
+    },
+    {
+      "role": "image",
+      "name": "Pristine Painters",
+      "keyshortcuts": "1592"
+    },
+    {
+      "role": "heading",
+      "name": "Pristine Painters",
+      "keyshortcuts": "1593",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "4.9"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "96"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "8.2 mi"
+    },
+    {
+      "role": "text",
+      "name": "91-48 88th Rd, Woodhaven, NY 11421, USA"
+    },
+    {
+      "role": "link",
+      "name": "(347) 618-7787",
+      "keyshortcuts": "1608"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1612"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1618"
+    },
+    {
+      "role": "text",
+      "name": "Vivian Chen"
+    },
+    {
+      "role": "text",
+      "name": "One of the best experiences I ever had with a contractor. I made an appointment and Jose was at my house basically the next day. He gave us an estimate that broke down every part of the house I needed it painted so we could find a solution that best worked with our budget. All in all the price was very fair and included the price of labor and the paint. He and his workers were always very punctual, polite, and professional. The work they did was well done and our walls look great. They left the house as clean as a job can be done. I wouldn\u2019t hesitate to work with them again."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1643"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1646"
+    },
+    {
+      "role": "image",
+      "name": "Flatbush House Painters",
+      "keyshortcuts": "1649"
+    },
+    {
+      "role": "heading",
+      "name": "Flatbush House Painters",
+      "keyshortcuts": "1650",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "4.9"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "62"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "5.2 mi"
+    },
+    {
+      "role": "text",
+      "name": "3018 Church Ave, Brooklyn, NY 11226, USA"
+    },
+    {
+      "role": "link",
+      "name": "(347) 508-7646",
+      "keyshortcuts": "1665"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1669"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1675"
+    },
+    {
+      "role": "text",
+      "name": "Jackson Hunter"
+    },
+    {
+      "role": "text",
+      "name": "They handled everything perfectly and efficiently. Highly recommend this business."
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1700"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1703"
+    },
+    {
+      "role": "image",
+      "name": "Handyman Service & Apartment Repair & Property Maintenance & Electrician & Plumber & Painter | Vlad Can Fix Anything In NYC",
+      "keyshortcuts": "1706"
+    },
+    {
+      "role": "heading",
+      "name": "Handyman Service & Apartment Repair & Property Maintenance & Electrician & Plumber & Painter | Vlad Can Fix Anything In NYC",
+      "keyshortcuts": "1707",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "4.9"
+    },
+    {
+      "role": "text",
+      "name": "("
+    },
+    {
+      "role": "text",
+      "name": "57"
+    },
+    {
+      "role": "text",
+      "name": ")"
+    },
+    {
+      "role": "text",
+      "name": "6.0 mi"
+    },
+    {
+      "role": "text",
+      "name": "254 W 98th St, New York, NY 10025, USA"
+    },
+    {
+      "role": "link",
+      "name": "(646) 504-3330",
+      "keyshortcuts": "1722"
+    },
+    {
+      "role": "link",
+      "name": "Visit Website",
+      "keyshortcuts": "1726"
+    },
+    {
+      "role": "link",
+      "name": "Yelp Reviews",
+      "keyshortcuts": "1732"
+    },
+    {
+      "role": "text",
+      "name": "mike stevens"
+    },
+    {
+      "role": "text",
+      "name": "Vlad installed reverse osmosis water filter under kitchen sink. He was professional & knowledgeable about the job having already installed 12 this year...! He walked me thru the entire process, providing me the DIY experience to change filters when needed... highly recommend Vlad for any of your plumbing needs!"
+    },
+    {
+      "role": "button",
+      "name": "Directions",
+      "keyshortcuts": "1757"
+    },
+    {
+      "role": "button",
+      "name": "Share Project",
+      "keyshortcuts": "1760"
+    },
+    {
+      "role": "region",
+      "name": "Notifications (F8)",
+      "keyshortcuts": "1761",
+      "children": [
+        {
+          "role": "list",
+          "name": "",
+          "keyshortcuts": "1762"
+        }
+      ]
+    }
+  ]
+}
