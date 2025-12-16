@@ -1,0 +1,2026 @@
+Browser context was closed. Creating a new one. 'PlaywrightManager' object has no attribute 'eval_mode'
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpyxwfw178
+Failed to navigate to homepage: Page.goto: net::ERR_CONNECTION_REFUSED at http://localhost:3000/abc
+Call log:
+navigating to "http://localhost:3000/abc", waiting until "load"
+
+Failed to navigate to homepage: Page.goto: net::ERR_CONNECTION_REFUSED at http://localhost:3000/abc
+Call log:
+navigating to "http://localhost:3000/abc", waiting until "load"
+
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpzgbc0gr5
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmphhbjx9kx
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpzp1f2qx9
+Created folder at: /Users/sai/agent-q/test/logs
+Created folder at: /Users/sai/agent-q/test/results
+Loading test configurations from: /Users/sai/agent-q/test/tasks/test.json
+Created results directory: /Users/sai/agent-q/test/results/results_for_test_results_for_test
+Created directory at: /Users/sai/agent-q/test/logs/test_results_for_test/logs_for_task_0
+Created directory at: /Users/sai/agent-q/test/logs/test_results_for_test/logs_for_task_0/snapshots
+Intent: find nothing phone 2 on amazon and sort the results by best seller, Task ID: 0
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.09649896621704102 seconds
+Opening URL: https://www.amazon.com
+Successfully loaded page: https://www.amazon.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.11999678611755371 seconds
+Entering text 'Nothing Phone 2' into element with selector '[mmid='67']' and then clicking element with selector '[mmid='68']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "Nothing Phone 2" set successfully in the element with selector [mmid='67']
+Executing ClickElement with "[mmid='68']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='68']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='68']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='68']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='68']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='68']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 2.82169508934021 seconds
+Executing ClickElement with "[mmid='688']" as the selector
+Executing ClickElement with "[mmid='688']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='688']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='688']" is attached. scrolling it into view if needed.
+Select menu option "exact-aware-popularity-rank" selected
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 1.659726858139038 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 1.7869670391082764 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 1.6731178760528564 seconds
+Command "find nothing phone 2 on amazon and sort the results by best seller" took: 241.33 seconds.
+Task 0 completed.
+Adding URL evaluator
+Test result for task 0 dumped to: /Users/sai/agent-q/test/results/results_for_test_results_for_test/test_result_0.json
+Created directory at: /Users/sai/agent-q/test/logs/test_results_for_test/logs_for_task_1
+Created directory at: /Users/sai/agent-q/test/logs/test_results_for_test/logs_for_task_1/snapshots
+Intent: find nothing phone 2 on amazon and sort the results by price highest first, Task ID: 1
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15147805213928223 seconds
+Opening URL: https://www.amazon.com
+Timeout error on attempt 1: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmph2ajebs_
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmp7qksskd8
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmppnutub3a
+Loading test configurations from: /Users/sai/agent-q/test/tasks/test.json
+Intent: find nothing phone 2 on amazon and sort the results by best seller, Task ID: 0
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1165323257446289 seconds
+Opening URL: https://www.amazon.com
+Timeout error on attempt 1: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpbv4kasdt
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.08326005935668945 seconds
+Entering text 'AnimeConventions.com anime conventions 2025' into element with selector '[mmid='56']' and then clicking element with selector '[mmid='60']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "AnimeConventions.com anime conventions 2025" set successfully in the element with selector [mmid='56']
+Executing ClickElement with "[mmid='60']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='60']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='60']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='60']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='60']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='60']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.025227069854736328 seconds
+Opening URL: https://www.animecons.com
+Successfully loaded page: https://animecons.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15516114234924316 seconds
+Executing ClickElement with "[mmid='92']" as the selector
+Executing ClickElement with "[mmid='92']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='92']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='92']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='92']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='92']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='92']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.12392616271972656 seconds
+Executing ClickElement with "[mmid='333']" as the selector
+Executing ClickElement with "[mmid='333']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='333']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='333']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='333']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='333']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='333']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.6696507930755615 seconds
+Executing ClickElement with "[mmid='333']" as the selector
+Executing ClickElement with "[mmid='333']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='333']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='333']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='333']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='333']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='333']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.6040999889373779 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.6141519546508789 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.599128007888794 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.580394983291626 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.6041617393493652 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5884928703308105 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.6267008781433105 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.6790189743041992 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5694129467010498 seconds
+Opening URL: https://animecons.com/events/schedule.php?loc=us
+Successfully loaded page: https://animecons.com/events/schedule.php?loc=us
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.657832145690918 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmp8xmnfith
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.0490880012512207 seconds
+Entering text 'AnimeCons.com' into element with selector '[mmid='56']' and then clicking element with selector '[mmid='60']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "AnimeCons.com" set successfully in the element with selector [mmid='56']
+Executing ClickElement with "[mmid='60']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='60']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='60']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='60']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='60']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='60']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06536722183227539 seconds
+Solving captcha
+page {page}
+about to capture
+Entering text 'I'm not a robot' into element with selector '[mmid='18']' and then clicking element with selector '[mmid='18']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "I'm not a robot" set successfully in the element with selector [mmid='18']
+Executing press_key_combination with key combo: Enter
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.015829086303710938 seconds
+Opening URL: https://www.animecons.com
+Successfully loaded page: https://animecons.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.11684894561767578 seconds
+Executing ClickElement with "[mmid='333']" as the selector
+Executing ClickElement with "[mmid='333']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='333']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='333']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='333']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='333']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='333']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5953869819641113 seconds
+Executing ClickElement with "[mmid='333']" as the selector
+Executing ClickElement with "[mmid='333']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='333']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='333']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='333']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='333']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='333']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.6479599475860596 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5851209163665771 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5915756225585938 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5904161930084229 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpy2pj3vug
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.0709831714630127 seconds
+Entering text 'anime conventions in the United States October 2025' into element with selector '[mmid='56']' and then clicking element with selector '[mmid='60']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "anime conventions in the United States October 2025" set successfully in the element with selector [mmid='56']
+Executing ClickElement with "[mmid='60']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='60']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='60']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='60']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='60']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='60']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.04061007499694824 seconds
+Solving captcha
+page {page}
+about to capture
+Entering text 'I'm not a robot' into element with selector '[mmid='18']' and then clicking element with selector '[mmid='18']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "I'm not a robot" set successfully in the element with selector [mmid='18']
+Executing press_key_combination with key combo: Enter
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.028390884399414062 seconds
+Opening URL: https://animecons.com
+Successfully loaded page: https://animecons.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.09775114059448242 seconds
+Executing ClickElement with "[mmid='307']" as the selector
+Executing ClickElement with "[mmid='307']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='307']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='307']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='307']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='307']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='307']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.14272785186767578 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.11476302146911621 seconds
+Executing ClickElement with "[mmid='267']" as the selector
+Executing ClickElement with "[mmid='267']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='267']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='267']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='267']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing JavaScript click on element with selector: [mmid='267']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.09178376197814941 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06927013397216797 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06928610801696777 seconds
+Executing ClickElement with "[mmid='191']" as the selector
+Executing ClickElement with "[mmid='191']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='191']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='191']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='191']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='191']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='191']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.060357093811035156 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='446']", text='')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "" set successfully in the element with selector [mmid='446']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06867480278015137 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpmzs6ab8r
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06366276741027832 seconds
+Opening URL: https://www.eventbrite.com
+Successfully loaded page: https://www.eventbrite.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3065059185028076 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk' into element with selector '[mmid='338']' and then clicking element with selector '[mmid='369']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk" set successfully in the element with selector [mmid='338']
+Executing ClickElement with "[mmid='369']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='369']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='369']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='369']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='369']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='369']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5195989608764648 seconds
+Executing ClickElement with "[mmid='1463']" as the selector
+Executing ClickElement with "[mmid='1463']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='1463']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='1463']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='1463']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='1463']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='1463']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16875290870666504 seconds
+Executing ClickElement with "[mmid='907']" as the selector
+Executing ClickElement with "[mmid='907']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='907']" as the selector. Waiting for the element to be attached and visible.
+Unable to click element with selector: "[mmid='907']". Error: Page.wait_for_selector: Timeout 2000ms exceeded.
+Call log:
+waiting for locator("[mmid='907']")
+
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18012595176696777 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18065214157104492 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.19229722023010254 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17383193969726562 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18579888343811035 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1760549545288086 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18649911880493164 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.11544609069824219 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17095112800598145 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17905092239379883 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17647504806518555 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16392993927001953 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18433094024658203 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpecpjiij9
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05809783935546875 seconds
+Opening URL: https://www.eventbrite.com
+Successfully loaded page: https://www.eventbrite.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3173401355743408 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk' into element with selector '[mmid='338']' and then clicking element with selector '[mmid='369']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk" set successfully in the element with selector [mmid='338']
+Executing ClickElement with "[mmid='369']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='369']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='369']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='369']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='369']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='369']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5224199295043945 seconds
+Executing ClickElement with "[mmid='1458']" as the selector
+Executing ClickElement with "[mmid='1458']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='1458']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='1458']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='1458']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='1458']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='1458']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15614604949951172 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17685890197753906 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16195201873779297 seconds
+Executing ClickElement with "[mmid='409']" as the selector
+Executing ClickElement with "[mmid='409']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='409']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='409']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='409']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='409']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='409']
+Executing ClickElement with "[mmid='409']" as the selector
+Executing ClickElement with "[mmid='409']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='409']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='409']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='409']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='409']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='409']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15597319602966309 seconds
+Executing ClickElement with "[mmid='912']" as the selector
+Executing ClickElement with "[mmid='912']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='912']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='912']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='912']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='912']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='912']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15754199028015137 seconds
+Executing ClickElement with "[mmid='912']" as the selector
+Executing ClickElement with "[mmid='912']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='912']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='912']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='912']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='912']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='912']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15060210227966309 seconds
+Executing ClickElement with "[mmid='912']" as the selector
+Executing ClickElement with "[mmid='912']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='912']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='912']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='912']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='912']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='912']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1642441749572754 seconds
+Executing ClickElement with "[mmid='912']" as the selector
+Executing ClickElement with "[mmid='912']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='912']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='912']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='912']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='912']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='912']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.14571404457092285 seconds
+Executing ClickElement with "[mmid='912']" as the selector
+Executing ClickElement with "[mmid='912']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='912']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='912']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='912']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='912']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='912']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1652078628540039 seconds
+Executing ClickElement with "[mmid='912']" as the selector
+Executing ClickElement with "[mmid='912']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='912']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='912']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='912']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='912']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='912']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.14963006973266602 seconds
+Executing ClickElement with "[mmid='409']" as the selector
+Executing ClickElement with "[mmid='409']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='409']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='409']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='409']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='409']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='409']
+Navigation timeout occurred, but the click might have been successful.
+Executing ClickElement with "[mmid='409']" as the selector
+Executing ClickElement with "[mmid='409']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='409']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='409']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='409']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='409']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='409']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.12224006652832031 seconds
+Executing ClickElement with "[mmid='409']" as the selector
+Executing ClickElement with "[mmid='409']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='409']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='409']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='409']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='409']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='409']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.12762713432312012 seconds
+Executing ClickElement with "[mmid='912']" as the selector
+Executing ClickElement with "[mmid='912']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='912']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='912']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='912']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='912']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='912']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16655707359313965 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpl_x08sfw
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.04773283004760742 seconds
+Opening URL: https://www.eventbrite.com
+Successfully loaded page: https://www.eventbrite.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.33289003372192383 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk' into element with selector '[mmid='338']' and then clicking element with selector '[mmid='369']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk" set successfully in the element with selector [mmid='338']
+Executing ClickElement with "[mmid='369']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='369']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='369']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='369']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='369']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='369']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5924539566040039 seconds
+Executing ClickElement with "[mmid='1449']" as the selector
+Executing ClickElement with "[mmid='1449']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='1449']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='1449']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='1449']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='1449']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='1449']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15426397323608398 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16432905197143555 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1591038703918457 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15786981582641602 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16201424598693848 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.26770782470703125 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.28678011894226074 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.28665614128112793 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.30806922912597656 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.6801269054412842 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmp00n3zrbe
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.11371374130249023 seconds
+Opening URL: https://www.eventbrite.com
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpx1opizq5
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05545806884765625 seconds
+Opening URL: https://www.eventbrite.com
+Successfully loaded page: https://www.eventbrite.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2958371639251709 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk' into element with selector '[mmid='338']' and then clicking element with selector '[mmid='369']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk" set successfully in the element with selector [mmid='338']
+Executing ClickElement with "[mmid='369']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='369']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='369']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='369']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='369']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='369']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5455739498138428 seconds
+Executing ClickElement with "[mmid='1453']" as the selector
+Executing ClickElement with "[mmid='1453']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='1453']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='1453']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='1453']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='1453']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='1453']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17361211776733398 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1795039176940918 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18495392799377441 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.12414407730102539 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.14544105529785156 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.13028717041015625 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.19797992706298828 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1812751293182373 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.13223505020141602 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16839313507080078 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1777200698852539 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1275339126586914 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='380']", text='sai')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "sai" set successfully in the element with selector [mmid='380']
+Entering text: EnterTextEntry(query_selector="[mmid='409']", text='p')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "p" set successfully in the element with selector [mmid='409']
+Entering text: EnterTextEntry(query_selector="[mmid='412']", text='saiprasanthpaladugula531@gmail.com')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "saiprasanthpaladugula531@gmail.com" set successfully in the element with selector [mmid='412']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1914830207824707 seconds
+Executing ClickElement with "[mmid='959']" as the selector
+Executing ClickElement with "[mmid='959']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='959']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='959']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='959']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='959']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='959']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1841871738433838 seconds
+Executing ClickElement with "[mmid='741']" as the selector
+Executing ClickElement with "[mmid='741']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='741']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='741']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='741']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='741']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='741']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.19773101806640625 seconds
+Executing ClickElement with "[mmid='957']" as the selector
+Executing ClickElement with "[mmid='957']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='957']" as the selector. Waiting for the element to be attached and visible.
+Unable to click element with selector: "[mmid='957']". Error: Page.wait_for_selector: Timeout 2000ms exceeded.
+Call log:
+waiting for locator("[mmid='957']")
+
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17376017570495605 seconds
+Executing ClickElement with "[mmid='911']" as the selector
+Executing ClickElement with "[mmid='911']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='911']" as the selector. Waiting for the element to be attached and visible.
+Unable to click element with selector: "[mmid='911']". Error: Page.wait_for_selector: Timeout 2000ms exceeded.
+Call log:
+waiting for locator("[mmid='911']")
+
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18369007110595703 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpqcgsxroi
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05453801155090332 seconds
+Opening URL: https://www.eventbrite.com
+Successfully loaded page: https://www.eventbrite.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3395369052886963 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk' into element with selector '[mmid='337']' and then clicking element with selector '[mmid='368']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk" set successfully in the element with selector [mmid='337']
+Executing ClickElement with "[mmid='368']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='368']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='368']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='368']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='368']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='368']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 1.0226929187774658 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpff0r0nr7
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.060040950775146484 seconds
+Opening URL: https://www.eventbrite.com
+Successfully loaded page: https://www.eventbrite.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3061821460723877 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk' into element with selector '[mmid='338']' and then clicking element with selector '[mmid='369']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk" set successfully in the element with selector [mmid='338']
+Executing ClickElement with "[mmid='369']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='369']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='369']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='369']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='369']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='369']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.49655604362487793 seconds
+Executing ClickElement with "[mmid='1460']" as the selector
+Executing ClickElement with "[mmid='1460']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='1460']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='1460']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='1460']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='1460']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='1460']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15598011016845703 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18160104751586914 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17059731483459473 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17954206466674805 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.12328767776489258 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17611193656921387 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.19493699073791504 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18695688247680664 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17849302291870117 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17859888076782227 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16541099548339844 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16981291770935059 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16437506675720215 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17660093307495117 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15921902656555176 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpd8nbsdrh
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpg99n8yxu
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.046972036361694336 seconds
+Opening URL: https://www.eventbrite.com
+Successfully loaded page: https://www.eventbrite.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3041391372680664 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk' into element with selector '[mmid='338']' and then clicking element with selector '[mmid='369']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk" set successfully in the element with selector [mmid='338']
+Executing ClickElement with "[mmid='369']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='369']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='369']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='369']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='369']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='369']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.49750280380249023 seconds
+Executing ClickElement with "[mmid='1460']" as the selector
+Executing ClickElement with "[mmid='1460']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='1460']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='1460']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='1460']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='1460']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='1460']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17696690559387207 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15940284729003906 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15034198760986328 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.12994694709777832 seconds
+Opening URL: https://www.eventbrite.com/e/wellthywell-san-diego-walk-talk-tickets-1468070802289?aff=ebdssbdestsearch
+Successfully loaded page: https://www.eventbrite.com/e/wellthywell-san-diego-walk-talk-tickets-1468070802289?aff=ebdssbdestsearch
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18361973762512207 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18306422233581543 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17300677299499512 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2070772647857666 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2768888473510742 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2054309844970703 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='631']", text='Sai')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "Sai" set successfully in the element with selector [mmid='631']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2917141914367676 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='378']", text='P')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "P" set successfully in the element with selector [mmid='378']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.28424072265625 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmp077d56rp
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.04088592529296875 seconds
+Opening URL: https://www.eventbrite.com
+Successfully loaded page: https://www.eventbrite.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3096592426300049 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk' into element with selector '[mmid='337']' and then clicking element with selector '[mmid='368']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk" set successfully in the element with selector [mmid='337']
+Executing ClickElement with "[mmid='368']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='368']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='368']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='368']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='368']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='368']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.5027551651000977 seconds
+Executing ClickElement with "[mmid='1468']" as the selector
+Executing ClickElement with "[mmid='1468']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='1468']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='1468']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='1468']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='1468']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='1468']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17558717727661133 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Unable to click element with selector: "[mmid='909']". Error: Page.wait_for_selector: Timeout 2000ms exceeded.
+Call log:
+  - waiting for locator("[mmid='909']")
+
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1786811351776123 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16477584838867188 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16504478454589844 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.12755584716796875 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17362189292907715 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18563508987426758 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15827703475952148 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17760396003723145 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16187596321105957 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17545700073242188 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1727428436279297 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17337298393249512 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15988397598266602 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1695868968963623 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1897280216217041 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18125414848327637 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16481900215148926 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18999290466308594 seconds
+Executing ClickElement with "[mmid='909']" as the selector
+Executing ClickElement with "[mmid='909']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='909']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='909']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='909']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='909']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='909']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17678284645080566 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.12830400466918945 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmps8fgnr0o
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmp1ejlqf0o
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06564593315124512 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.04439997673034668 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.07194113731384277 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmphl0l9ieu
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05359315872192383 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk Eventbrite' into element with selector '[mmid='56']' and then clicking element with selector '[mmid='60']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk Eventbrite" set successfully in the element with selector [mmid='56']
+Executing ClickElement with "[mmid='60']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='60']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='60']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='60']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='60']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='60']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.035921335220336914 seconds
+Solving captcha
+page {page}
+about to capture
+Entering text 'I'm not a robot' into element with selector '[mmid='18']' and then clicking element with selector '[mmid='18']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "I'm not a robot" set successfully in the element with selector [mmid='18']
+Executing press_key_combination with key combo: Enter
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.016846895217895508 seconds
+Opening URL: https://www.google.com/search?ie=ISO-8859-1&hl=en&source=hp&biw=&bih=&q=WellthyWell%3A+San+Diego+Walk+%26+Talk+Eventbrite&iflsig=AOw8s4IAAAAAaMSzkS7ByLtsnPkdeia7-MDbru1-JhB3&gbv=2&oq=WellthyWell%3A+San+Diego+Walk+%26+Talk+Eventbrite&gs_l=heirloom-hp.12..0i751l2j0i512i546.18681.18749.0.20778.45.2.0.0.0.0.159.255.1j1.2.0....0...1.1.34.heirloom-hp..43.2.255.U4ugo5MNWmo&sei=lqXEaNfBLrnK0PEP8dyn0Qw
+Successfully loaded page: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fie%3DISO-8859-1%26hl%3Den%26source%3Dhp%26biw%3D%26bih%3D%26q%3DWellthyWell%253A%2BSan%2BDiego%2BWalk%2B%2526%2BTalk%2BEventbrite%26iflsig%3DAOw8s4IAAAAAaMSzkS7ByLtsnPkdeia7-MDbru1-JhB3%26gbv%3D2%26oq%3DWellthyWell%253A%2BSan%2BDiego%2BWalk%2B%2526%2BTalk%2BEventbrite%26gs_l%3Dheirloom-hp.12..0i751l2j0i512i546.18681.18749.0.20778.45.2.0.0.0.0.159.255.1j1.2.0....0...1.1.34.heirloom-hp..43.2.255.U4ugo5MNWmo%26sg_ss%3D*kKyarPTyAAZbjm8ie459iEMt82YMs2wEADQBEArZ1Kx_qE8Yu0hOLQ9v3Or0J81PCN8dWa5XVdbC0SFmeHHDa89MPW30HwJXGTPbfS7fPQAAAA9tAAAABVcBB0EAMxcvauERt3HMhWQ-LnbBfTtgOetA19xCNnmOd0YUgUb5moMdAC-zXv7KDKLyXN_NWxBM_qYCOM7KLrO2p9q12obTTWQ96qgzr_EIxr_gBuCPvb88J1ZysbJWnl7BuzLZ8W3LhJNcCci5miFeFqCYUNHluUN1PCunbg7Wxq5C-Z5y4HDkOiUStAngWrsG_eFgNuq7KWDX5ypJJRoJp66ISCtoe7BOuE-Mkt-IvPvoVvAhneDIDq9a_HpjmHEGZgrtryCIStqReYAsda5w1Tn6h2fJuks-Wmw-v7qcU-T6D9nKXpXwUrIB-yLEgzNxPoMTOa4UeH7d3UqY-Wqwi_GpAMYYhaeQFQYwPvKK6RjkVmRdUTEtUILC8lUWSwIRzr0UQsol3uzicJWqGWx58sw3ExKlGH59J1XUMJCPy56liZb4P0nE5QtxfRMJMfrFO0Ytc0o-YjFqUUCYg2vv8zrOaTT8j7HzrEGo_nMLdeZczq3p-HKflYByXENWHKWJtQ50jc8UWw32tHroiJ8XbdSP46T5swy-Hy27kJD8AmpTJXDgLALh6Dw6SSlnmjDvxt1cN_1kvmBztYBsBP7qqUYMYFgggXA17M_317JrGHukxDoc0R0_nYt95ZzQmBB0f0FPvsdSCu1-80b43RBFFGz8_xt8l78vk1Ny_HGb_JFVRclgfFuMf3H0K-jFMLlcyZR3tT3qw8FqBST5LKg7fSXFq526gthaoOH7pL4WBlbhHcPmjZmTuTz9SQXh2uFCsXehnHd-ah2NdT_oNQO2q_61eN93Sf6wDC4PE55Tqkd9F-VhmOzbriV_YwtfYnTRMl4%26sei%3DsaXEaO6vDcOV0PEPi9iLkAM&hl=en&q=EgRjrvpvGLHLksYGIjB-u_YmSz35ONRDs9tMKMo6Jg7TQ6XPwYEf7vvxgBFxB-iJ7fdYZ4G9B4cLr5CFn3YyAVJaAUM
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.022140979766845703 seconds
+Opening URL: https://www.eventbrite.com
+Successfully loaded page: https://www.eventbrite.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2821052074432373 seconds
+Entering text 'WellthyWell: San Diego Walk & Talk' into element with selector '[mmid='338']' and then clicking element with selector '[mmid='369']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "WellthyWell: San Diego Walk & Talk" set successfully in the element with selector [mmid='338']
+Executing ClickElement with "[mmid='369']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='369']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='369']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='369']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='369']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='369']
+Executing Get DOM Command based on content_type: all_fields
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.49509501457214355 seconds
+Executing ClickElement with "[mmid='1459']" as the selector
+Executing ClickElement with "[mmid='1459']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='1459']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='1459']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='1459']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='1459']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='1459']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1685638427734375 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1658480167388916 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.17069578170776367 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16704702377319336 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15746784210205078 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.14678716659545898 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15614604949951172 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15726685523986816 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15406084060668945 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16655898094177246 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.16109299659729004 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1549370288848877 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15727591514587402 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.15840792655944824 seconds
+Executing ClickElement with "[mmid='865']" as the selector
+Executing ClickElement with "[mmid='865']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='865']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='865']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='865']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='865']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='865']
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmp7yn1ptun
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05531001091003418 seconds
+Opening URL: https://www.dosd.com
+Timeout error on attempt 1: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+Successfully loaded page: https://dosd.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3452160358428955 seconds
+Executing ClickElement with "[mmid='431']" as the selector
+Executing ClickElement with "[mmid='431']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='431']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='431']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='431']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='431']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='431']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3016810417175293 seconds
+Entering text 'Tributo a Luis Miguel / Alejandro Sanz' into element with selector '[mmid='510']' and then clicking element with selector '[mmid='431']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "Tributo a Luis Miguel / Alejandro Sanz" set successfully in the element with selector [mmid='510']
+Executing ClickElement with "[mmid='431']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='431']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='431']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='431']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='431']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='431']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.32337188720703125 seconds
+Executing ClickElement with "[mmid='516']" as the selector
+Executing ClickElement with "[mmid='516']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='516']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='516']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='516']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='516']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='516']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1416339874267578 seconds
+Executing ClickElement with "[mmid='539']" as the selector
+Executing ClickElement with "[mmid='539']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='539']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='539']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='539']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='539']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='539']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1386890411376953 seconds
+Executing ClickElement with "[mmid='628']" as the selector
+Executing ClickElement with "[mmid='628']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='628']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='628']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='628']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='628']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='628']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.04431319236755371 seconds
+Executing ClickElement with "[mmid='125']" as the selector
+Executing ClickElement with "[mmid='125']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='125']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='125']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='125']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='125']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='125']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06811189651489258 seconds
+Executing ClickElement with "[mmid='204']" as the selector
+Executing ClickElement with "[mmid='204']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='204']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='204']" is attached. scrolling it into view if needed.
+Select menu option "1" selected
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.059422969818115234 seconds
+Executing ClickElement with "[mmid='214']" as the selector
+Executing ClickElement with "[mmid='214']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='214']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='214']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='214']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='214']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='214']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06164407730102539 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='306']", text='sai')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "sai" set successfully in the element with selector [mmid='306']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05010819435119629 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='310']", text='sai')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "sai" set successfully in the element with selector [mmid='310']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06155896186828613 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='315']", text='saiprasanthpaladugula531@gmail.com')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "saiprasanthpaladugula531@gmail.com" set successfully in the element with selector [mmid='315']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.04867696762084961 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='319']", text='9999999999')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "9999999999" set successfully in the element with selector [mmid='319']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06286215782165527 seconds
+Executing ClickElement with "[mmid='322']" as the selector
+Executing ClickElement with "[mmid='322']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='322']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='322']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='322']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='322']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='322']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.044248104095458984 seconds
+Executing ClickElement with "[mmid='328']" as the selector
+Executing ClickElement with "[mmid='328']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='328']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='328']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='328']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='328']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='328']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.04070615768432617 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmphbsl0n89
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06354808807373047 seconds
+Opening URL: https://www.dosd.com
+Timeout error on attempt 1: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+Successfully loaded page: https://dosd.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3102240562438965 seconds
+Executing ClickElement with "[mmid='431']" as the selector
+Executing ClickElement with "[mmid='431']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='431']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='431']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='431']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='431']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='431']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3267860412597656 seconds
+Entering text 'Tributo a Luis Miguel / Alejandro Sanz' into element with selector '[mmid='510']' and then clicking element with selector '[mmid='431']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "Tributo a Luis Miguel / Alejandro Sanz" set successfully in the element with selector [mmid='510']
+Executing ClickElement with "[mmid='431']" as the selector. Wait time before execution: 1.5 seconds.
+Executing ClickElement with "[mmid='431']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='431']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='431']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='431']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='431']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.31243371963500977 seconds
+Executing ClickElement with "[mmid='516']" as the selector
+Executing ClickElement with "[mmid='516']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='516']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='516']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='516']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='516']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='516']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.13041996955871582 seconds
+Executing ClickElement with "[mmid='628']" as the selector
+Executing ClickElement with "[mmid='628']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='628']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='628']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='628']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='628']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='628']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.18343305587768555 seconds
+Executing ClickElement with "[mmid='125']" as the selector
+Executing ClickElement with "[mmid='125']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='125']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='125']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='125']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='125']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='125']
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmp6fmqlq3g
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06651782989501953 seconds
+Opening URL: https://www.dosd.com
+Timeout error on attempt 1: Timeout 30000ms exceeded.
+=========================== logs ===========================
+"load" event fired
+============================================================
+Successfully loaded page: https://dosd.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3195481300354004 seconds
+Executing ClickElement with "[mmid='431']" as the selector
+Executing ClickElement with "[mmid='431']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='431']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='431']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='431']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='431']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='431']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3065619468688965 seconds
+Entering text 'Tributo a Luis Miguel / Alejandro Sanz' into element with selector '[mmid='510']' and then clicking element with selector '[mmid='431']'.
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "Tributo a Luis Miguel / Alejandro Sanz" set successfully in the element with selector [mmid='510']
+Executing ClickElement with "[mmid='431']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='431']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='431']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='431']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='431']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='431']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.31015610694885254 seconds
+Executing ClickElement with "[mmid='516']" as the selector
+Executing ClickElement with "[mmid='516']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='516']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='516']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='516']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='516']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='516']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.14159107208251953 seconds
+Executing ClickElement with "[mmid='628']" as the selector
+Executing ClickElement with "[mmid='628']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='628']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='628']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='628']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='628']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='628']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.04099774360656738 seconds
+Executing ClickElement with "[mmid='125']" as the selector
+Executing ClickElement with "[mmid='125']" as the selector. Wait time before execution: 1.0 seconds.
+Executing ClickElement with "[mmid='125']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='125']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='125']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='125']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='125']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06529927253723145 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='202']", text='1')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "1" set successfully in the element with selector [mmid='202']
+Executing ClickElement with "[mmid='214']" as the selector
+Executing ClickElement with "[mmid='214']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='214']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='214']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='214']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='214']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='214']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05191397666931152 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='306']", text='sai')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "sai" set successfully in the element with selector [mmid='306']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.0576777458190918 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='310']", text='sai')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "sai" set successfully in the element with selector [mmid='310']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05049586296081543 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='315']", text='saiprasanthpaladugula531@gmail.com')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "saiprasanthpaladugula531@gmail.com" set successfully in the element with selector [mmid='315']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.0590360164642334 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='319']", text='9999999999')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "9999999999" set successfully in the element with selector [mmid='319']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05696463584899902 seconds
+Executing ClickElement with "[mmid='322']" as the selector
+Executing ClickElement with "[mmid='322']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='322']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='322']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='322']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='322']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='322']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.06234908103942871 seconds
+Executing ClickElement with "[mmid='328']" as the selector
+Executing ClickElement with "[mmid='328']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='328']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='328']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='328']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='328']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='328']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.03438901901245117 seconds
+Starting a temporary browser instance. trying to launch with a new user dir /var/folders/r9/_c752dws7jg7cv6k_n6dp7vw0000gp/T/tmpjbk7frxl
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05225801467895508 seconds
+Opening URL: https://projectzai.com
+Successfully loaded page: https://projectzai.com/
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.031239986419677734 seconds
+Executing ClickElement with "[mmid='450']" as the selector
+Executing ClickElement with "[mmid='450']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='450']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='450']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='450']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='450']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='450']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.02154541015625 seconds
+Executing ClickElement with "[mmid='54']" as the selector
+Executing ClickElement with "[mmid='54']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='54']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='54']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='54']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='54']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='54']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.022871971130371094 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='93']", text='sai')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "sai" set successfully in the element with selector [mmid='93']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.02092885971069336 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='96']", text='p')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "p" set successfully in the element with selector [mmid='96']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.02222418785095215 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='99']", text='saiprasanthpaladugula531@gmail.com')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "saiprasanthpaladugula531@gmail.com" set successfully in the element with selector [mmid='99']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.023305892944335938 seconds
+Entering text: EnterTextEntry(query_selector="[mmid='103']", text='Prasanth@2000')
+Executing press_key_combination with key combo: Control+A
+Executing press_key_combination with key combo: Backspace
+Success. Text "Prasanth@2000" set successfully in the element with selector [mmid='103']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.022825956344604492 seconds
+Executing ClickElement with "[mmid='108']" as the selector
+Executing ClickElement with "[mmid='108']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='108']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='108']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='108']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='108']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='108']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.11069416999816895 seconds
+Executing ClickElement with "[mmid='172']" as the selector
+Executing ClickElement with "[mmid='172']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='172']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='172']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='172']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='172']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='172']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.12885785102844238 seconds
+Executing ClickElement with "[mmid='170']" as the selector
+Executing ClickElement with "[mmid='170']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='170']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='170']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='170']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='170']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='170']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1201012134552002 seconds
+Executing ClickElement with "[mmid='179']" as the selector
+Executing ClickElement with "[mmid='179']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='179']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='179']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='179']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='179']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='179']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.1190340518951416 seconds
+Executing ClickElement with "[mmid='55']" as the selector
+Executing ClickElement with "[mmid='55']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='55']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='55']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='55']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='55']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='55']
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05244612693786621 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.05108308792114258 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.051635026931762695 seconds
+Executing ClickElement with "[mmid='117']" as the selector
+Executing ClickElement with "[mmid='117']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='117']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='117']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='117']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='117']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='117']
+Navigation timeout occurred, but the click might have been successful.
+Executing ClickElement with "[mmid='131']" as the selector
+Executing ClickElement with "[mmid='131']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='131']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='131']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='131']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='131']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='131']
+Navigation timeout occurred, but the click might have been successful.
+Executing ClickElement with "[mmid='135']" as the selector
+Executing ClickElement with "[mmid='135']" as the selector. Wait time before execution: 2.0 seconds.
+Executing ClickElement with "[mmid='135']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='135']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='135']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='135']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='135']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.04963493347167969 seconds
+Executing ClickElement with "[mmid='117']" as the selector
+Executing ClickElement with "[mmid='117']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='117']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='117']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='117']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='117']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='117']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.052247047424316406 seconds
+Executing ClickElement with "[mmid='115']" as the selector
+Executing ClickElement with "[mmid='115']" as the selector. Wait time before execution: 1 seconds.
+Executing ClickElement with "[mmid='115']" as the selector. Waiting for the element to be attached and visible.
+Element with selector: "[mmid='115']" is attached. scrolling it into view if needed.
+Element with selector: "[mmid='115']" is attached and scrolled into view. Waiting for the element to be visible.
+Executing ClickElement with "[mmid='115']" as the selector. Element is attached and visible. Clicking the element.
+Executing JavaScript click on element with selector: [mmid='115']
+Navigation timeout occurred, but the click might have been successful.
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2952539920806885 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2985110282897949 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3040659427642822 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.28688812255859375 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2899641990661621 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2846980094909668 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2851541042327881 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.32322096824645996 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.27708911895751953 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.31733012199401855 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3028109073638916 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.31499600410461426 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.306210994720459 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.29201412200927734 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3235809803009033 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.31313300132751465 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.290128231048584 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.29120802879333496 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3467588424682617 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.29165101051330566 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.33206701278686523 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3225979804992676 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.2810781002044678 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.30138182640075684 seconds
+Executing Get DOM Command based on content_type: all_fields
+Get DOM Command executed in 0.3362109661102295 seconds
